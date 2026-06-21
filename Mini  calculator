@@ -1,0 +1,44 @@
+print ("mini calculator")
+print ("tumhe jo calculat krna ho aap isme kar sakte ho")
+
+while True:     
+    num1 = float(input("num1:"))
+    
+    operator = input("kya karna he (+,-,*,/,^,%): ")
+    
+    num2 =float(input("num2:"))
+    
+    if operator == "+":
+        result=num1+num2
+        print (f"{num1}+{num2}={result}")
+    elif operator == "-":
+        result = num1 - num2
+        print(f"{num1}-{num2}={result}")
+    elif operator == "*":
+        result = num1 *num2
+        print(f"{num1}*{num2}={result}")
+    elif operator == "/":
+        if num2 ==0:
+            print ("not define")
+        else :
+            result = num1 / num2
+            print(f"{num1}/{num2}={result}")
+    elif operator == "^":
+        result = num1 **num2
+        print(f"{num1}^{num2}={result}")
+    elif operator == "%":
+        if num2 ==0:
+            print ("not define")
+        else:
+          result = num1%num2
+          print(f"{num1}%{num2}={result}")           
+    else :
+          print ("wrong operator")
+          
+      
+       
+    aage = input("age karna he kya yes / no :")
+    if aage == "no":
+        print ("calculator band ")
+        break
+Le bhai usko bhi kar diya

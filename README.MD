@@ -6,8 +6,8 @@ Mera tisra Python project hai ye!
 super fast sum ,subtract, multiple ,division karta he
 
 
-## Kaise chalaye?
-1. time-assistan.py file download karo
+## Kaise chalaye 
+dif.py file download karo
 2. Terminal/CMD kholo 
 3. `python dif.py` likho
 4. Enter dabao. Ho gaya!

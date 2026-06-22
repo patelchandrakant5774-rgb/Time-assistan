@@ -1,10 +1,10 @@
 # Time-assistan 
 
-Mera dushra Python project hai ye! 
+Mera tisra Python project hai ye! 
 
 ## Ye kya karta hai?
-time dekhkar batata ge hame kis samya per kya krna chahiye
-Class 9th ke Sher ne banaya hai!
+super fast sum subtract into division karta he
+
 
 ## Kaise chalaye?
 1. time-assistan.py file download karo
@@ -12,8 +12,8 @@ Class 9th ke Sher ne banaya hai!
 3. `python time-assistan.py` likho
 4. Enter dabao. Ho gaya!
 
-## Maine kya seekha?
-Maine isme `def` function aur `if-else`  Or eror handling shikhi user se vat karna seekha. 
+## Maine kya seekha
+mene isme superfast kam karna shikha ki kese def ki madad se ka. hota he
  
 
 ## Banaya kisne?

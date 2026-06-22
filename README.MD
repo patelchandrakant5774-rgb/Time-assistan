@@ -1,9 +1,9 @@
 # Time-assistan 
 
-Mera pehla Python Calculator project hai ye! 🦁
+Mera dushra Python project hai ye! 
 
 ## Ye kya karta hai?
-Ye 2 number jodta hai, ghata ta hai, gunta hai, bhag deta hai. 
+time dekhkar batata ge hame kis samya per kya krna chahiye
 Class 9th ke Sher ne banaya hai!
 
 ## Kaise chalaye?
@@ -13,8 +13,8 @@ Class 9th ke Sher ne banaya hai!
 4. Enter dabao. Ho gaya!
 
 ## Maine kya seekha?
-Maine isme `def` function aur `if-else` seekha. 
-ChatGPT ne bola nahi hoga, maine khud code likha! 🔥
+Maine isme `def` function aur `if-else`  Or eror handling shikhi user se vat karna seekha. 
+ 
 
 ## Banaya kisne?
 **chandrakant patel** - Class 9th, khandwa

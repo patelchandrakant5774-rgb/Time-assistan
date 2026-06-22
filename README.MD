@@ -1,4 +1,4 @@
-## classgudens.py
+## classguidens.py
 
 Mera chutha Python project hai ye! 
 
@@ -7,9 +7,9 @@ ye apko batayega ki aap ko konsi class ne kesi padai karni chahiye
 
 
 ## Kaise chalaye 
-class gudens.py ile download karo
+class guidens.py file download karo
 2. Terminal/CMD kholo 
-3. `python class gudens.py` likho
+3. `python class guidens.py` likho
 4. Enter dabao. Ho gaya!
 
 ## Maine kya seekha

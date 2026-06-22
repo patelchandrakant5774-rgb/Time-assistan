@@ -3,7 +3,7 @@
 Mera chutha Python project hai ye! 
 
 ## Ye kya karta hai?
-ye apko batayega ki aap ko konsi class ne kesi badai karni chahiye
+ye apko batayega ki aap ko konsi class ne kesi padai karni chahiye
 
 
 ## Kaise chalaye 

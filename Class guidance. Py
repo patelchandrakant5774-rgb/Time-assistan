@@ -1,0 +1,32 @@
+print("yeh tumhe batayega ki tumhe 5th se 12th kon shi class ne kya karna  chahiye claas  me kya krana chahiye ")
+print("yaha  per apni class  dalo or pat karo")
+print ("note : class dalana jese 5 ,6 ,7   ")
+print ("note: class  5th 6th wale number wale manya nahi honge")
+while True :
+    class_name = int(input("class_name:"))
+    
+    if class_name ==5:
+        print("is class me tume apne maths me jyada dhyan dena chahiye roj guna bhag ke 10-10 sawal krana chagiye ")
+    elif class_name == 6:
+        
+        print ("ab yaha se aapki secondry padai start ho jati he aap ko yaha se apni english or hindi achhi rakhni chahiye bhi")
+    elif class_name == 7 :
+        
+        print(" Notes banana seekho.Regular revision ki habit.General knowledge badhao.")
+    elif class_name == 8:
+        
+        print("Science aur Math ki strong foundation banao.Books padhne ki aadat badhao.Mobile aur social media ka use limit rakho")
+    elif class_name == 9:
+        print ("Roz school ka kaam time par karo Maths, Science aur English par focus rakhoKoi ek hobby rakho (sports, drawing, coding, music, etc.)Daily 1–2 ghante padhai ki habit banao")
+    elif class_name == 10 :
+        print ("Board exam par focus karo.Daily revision karo.Career options ke baare me research karo.")
+    elif class_name == 11:
+        print ("Apni pasand ki stream (Science/Commerce/Arts) chunoConceptual learning par dhyan doCompetitive exams ki basic preparation shuru karo")
+    elif class_name == 12 :
+        print("Class 12Board exams aur career goals par focus karoCollege aur future plans decide karoCommunication aur personality development par kaam karo")
+    else:
+          print("this class is not under 5th to 12th")
+    agee = input ("agee or karna he yes /no :")
+    if agee == "no" :
+        print ("----thankyou----")
+        break

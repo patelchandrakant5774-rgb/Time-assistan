@@ -1,19 +1,20 @@
-# dif.py 
+# d
+class gudens.py
 
-Mera tisra Python project hai ye! 
+Mera chutha Python project hai ye! 
 
 ## Ye kya karta hai?
-super fast sum ,subtract, multiple ,division karta he
+ye apko batayega ki aap ko konsi class ne kesi badai karni chahiye
 
 
 ## Kaise chalaye 
-dif.py file download karo
+class gudens.py ile download karo
 2. Terminal/CMD kholo 
-3. `python dif.py` likho
+3. `python class gudens.py` likho
 4. Enter dabao. Ho gaya!
 
 ## Maine kya seekha
-mene isme superfast kam karna shikha ki kese def ki madad se ka. hota he
+mene ise if elif ko or bahut pakka kar liya
  
 
 ## Banaya kisne?

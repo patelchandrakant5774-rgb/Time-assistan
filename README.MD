@@ -1,20 +1,14 @@
-## classguidens.py
+# Time Assistant ⏰
 
-Mera chutha Python project hai ye! 
+Mera Python project hai ye!
 
-## Ye kya karta hai?
-ye apko batayega ki aap ko konsi class ne kesi padai karni chahiye
+Ye project time dekh kar kaam karta hai.
+User ko time ke hisaab se help milti hai.
 
-
-## Kaise chalaye 
-class guidens.py file download karo
+### Kaise chalaye:
+1. `time.py` file download karo
 2. Terminal/CMD kholo 
-3. `python class guidens.py` likho
-4. Enter dabao. Ho gaya!
-
-## Maine kya seekha
-mene ise if elif ko or bahut pakka kar liya
- 
-
-## Banaya kisne?
-**chandrakant patel** - Clacas 9
+3. `python time.py` likho
+4. Enter dabao - Ho gaya! 🚀
+## kisne banaya 
+**chandrakant patel** class 9th

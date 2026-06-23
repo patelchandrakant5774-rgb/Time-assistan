@@ -1,14 +1,14 @@
-# Class Guidance 📚
+# Def Project 🔧
 
-Mera Python ka Class Guidance project hai ye!
+Mera Python ka Def project hai ye!
 
-Ye project class ke students ko help karta hai. 
-Class ke kaam, time table, aur guidance ke liye bana hai.
+Ye project Python me `def` yani function sikhne ke liye bana hai. 
+Functions kaise kaam karte hai, ye samjhata hai.
 
 ### Kaise chalaye:
-1. `class guidance.py` file download karo
+1. `Def.py` file download karo
 2. Terminal/CMD kholo 
-3. `python class guidance.py` likho
-4. Enter dabao - Ho gaya! 🚀
+3. `python Def.py` likho
+4. Enter dabao - Function chal jayega! 🚀
 
-chandrakant patel class 9th 💪p)
+chandrakant patel class 9th 💪

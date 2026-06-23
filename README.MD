@@ -17,5 +17,4 @@ mene ise if elif ko or bahut pakka kar liya
  
 
 ## Banaya kisne?
-**chandrakant patel** - Class 9th, khandwa
-GitHub: patelchandrakant5774-rgb
+**chandrakant patel** - Clacas 9
